@@ -1,8 +1,7 @@
 ### hi there! :D
 
-i amd birdfour, a developer from california! i like birds,
-coding, gaming, nature, playing piano and listening to music!
+i amd birdfour and i make stuff sometimes
 
 ### tools i use
-- python
+- python (occasionally)
 - lua and love2d
